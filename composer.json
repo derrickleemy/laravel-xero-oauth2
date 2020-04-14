@@ -1,5 +1,5 @@
 {
-    "name": "webfox/laravel-xero-oauth2",
+    "name": "derrickleemy/laravel-xero-oauth2",
     "description": "A Laravel integration for Xero using the Oauth 2.0 spec",
     "keywords": [
         "webfox",
