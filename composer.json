@@ -19,13 +19,13 @@
         }
     ],
     "require": {
-        "php": "^7.3",
+        "php": "^7.2",
         "xeroapi/xero-php-oauth2": "^1.0",
         "laravel/framework": "^5.5|^6.0|^7.0"
     },
     "require-dev": {
         "symfony/var-dumper": "^4.3",
-        "phpunit/phpunit": "^8.2"
+        "phpunit/phpunit": "^7.5"
     },
     "autoload": {
         "psr-4": {
